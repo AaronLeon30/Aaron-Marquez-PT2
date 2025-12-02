@@ -61,3 +61,23 @@ y una vez le des a añadir cuenta nueva ya se habrá creado tu cuenta como en mi
 ![Text alternatiu](Imagen15.png)
 
 para configurar los permisos lo que hay que hacer es darle al lápiz y una vez dado eliges el rol que quieres que haga cada uno, hay te explica como hacer un rol que se hace poniéndolo en añadir rol y después lo modificas todo y el usuario que hayas asignado el rol que tu has deseado solo podrá hacer lo que le permite su rol.
+
+## 7 Organización
+
+![Text alternatiu](Imagen16.png)
+
+para organizar lo que puedes hacer para organizar es darle al cuadrado de al lado de lo que tu quieras tener primero
+
+![Text alternatiu](Imagen17.png)
+
+una vez dado te sale añadir a favorito y se pone primero y en orden que tu las hayas seleccionado
+
+![Text alternatiu](Imagen18.png)
+
+y una vez hayas hecho todo ya estaría ordenado a tu manera
+
+## 8 Acceso desde una máquina cualquiera de la red
+
+![Text alternatiu](Imagen19.png)
+
+y una vez ya todo hecho con la ip de la máquina la pones en tu firefox normal y ya estaría la máquina virtual funcionando en tu propia máquina sin necesidad de cambiar todo al isard y también ya estaría toda la práctica hecha.
