@@ -55,3 +55,4 @@ Cuando te salga esto solo lo tienes que llenar poner un correo si quieres no es 
 ![Text alternatiu](Imagen14.png)
 
 y una vez le des a añadir cuenta nueva ya se habrá creado tu cuenta como en mi caso que te he explicado como cree la cuenta de Lionel
+
