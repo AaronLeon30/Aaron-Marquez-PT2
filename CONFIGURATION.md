@@ -56,3 +56,8 @@ Cuando te salga esto solo lo tienes que llenar poner un correo si quieres no es 
 
 y una vez le des a añadir cuenta nueva ya se habrá creado tu cuenta como en mi caso que te he explicado como cree la cuenta de Lionel
 
+## 6 configurar permisos
+
+![Text alternatiu](Imagen15.png)
+
+para configurar los permisos lo que hay que hacer es darle al lápiz y una vez dado eliges el rol que quieres que haga cada uno, hay te explica como hacer un rol que se hace poniéndolo en añadir rol y después lo modificas todo y el usuario que hayas asignado el rol que tu has deseado solo podrá hacer lo que le permite su rol.
