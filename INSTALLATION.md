@@ -170,7 +170,7 @@ sudo unzip /ruta/al/arxiu.zip
 Si el archivo crea una carpeta interna (ej: nextcloud/o owncloud/), asegúrese de que el contingut es mogui al nivell arrel del host virtual:
 
 sudo mv nextcloud/* . && sudo rmdir nextcloud
-# o
+ o
 sudo mv owncloud/* . && sudo rmdir owncloud
 Podeu fer això directamente si ho teniu descomprimit a Descargas:
 cp -R ~/Descargas/nextcloud/. /var/www/domini.local/.
