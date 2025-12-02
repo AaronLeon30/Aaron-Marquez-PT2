@@ -1,3 +1,3 @@
 # Link
 
-[text de l'enllaç](CONFIGURATION.md)
+[Configuration](CONFIGURATION.md)
