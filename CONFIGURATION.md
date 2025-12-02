@@ -26,7 +26,7 @@ una vez le hayas dado te saldra esto y pones el nombre que tu desees
 
 una vez le hayas dado a crear la carpeta procede a crearla
 
-![Text alternatiu](Imagen7.png)
+![Text alternatiu](imagen7.png)
 
 una vez ya tengas la carpeta creada para compartirla le tendrás que dar a una persona que tiene un + arriba 
 
