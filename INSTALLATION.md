@@ -1,3 +1,3 @@
 # Link
 
-[Configuration](CONFIGURATION.md)
+[Configuration.md](CONFIGURATION.md)
