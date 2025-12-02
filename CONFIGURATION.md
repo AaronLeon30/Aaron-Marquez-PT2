@@ -48,7 +48,7 @@ una vez dado a cuentas te meterá aquí yo ya tengo tres cuentas creadas pero te
 
 vale, una vez ya estés dentro le darás a donde poner crear una nueva cuenta, una vez le des te saldrá esto.
 
-![Text alternatiu](Imagen13.png)
+![Text alternatiu](imagen13.png)
 
 Cuando te salga esto solo lo tienes que llenar poner un correo si quieres no es necesario y una vez ya lo tengas le das añadir cuenta 
 
