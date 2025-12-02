@@ -33,3 +33,25 @@ una vez ya tengas la carpeta creada para compartirla le tendrás que dar a una p
 ![Text alternatiu](Imagen8.png)
 
 Una vez dado al más te saldra esto y aquí puedes compartirlo como tu desees o copiando el enlaçe y pasandolo o poniendo su correo electrónico pero se recomienda copiar el enlaçe y pasarlo
+
+# 5 Creacion d'usuarios
+
+![Text alternatiu](Imagen9.png)
+
+para  crear nuevos usuarios lo que hay que hacer es darle a tu perfil la letra que te salga arriba a la derecha y te saldra lo que ves ahora entonces tu le tendras que dar a cuentas .
+
+![Text alternatiu](Imagen10.png)
+
+una vez dado a cuentas te meterá aquí yo ya tengo tres cuentas creadas pero te explicaré como crear una nueva cuenta.
+
+![Text alternatiu](Imagen11.png)
+
+vale, una vez ya estés dentro le darás a donde poner crear una nueva cuenta, una vez le des te saldrá esto.
+
+![Text alternatiu](Imagen13.png)
+
+Cuando te salga esto solo lo tienes que llenar poner un correo si quieres no es necesario y una vez ya lo tengas le das añadir cuenta 
+
+![Text alternatiu](Imagen14.png)
+
+y una vez le des a añadir cuenta nueva ya se habrá creado tu cuenta como en mi caso que te he explicado como cree la cuenta de Lionel
